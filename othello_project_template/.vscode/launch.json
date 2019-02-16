@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OthelloGUI",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "OthelloGUI",
+            "args": "",
+            "projectName": "othello_project"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OthelloGame",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "OthelloGame",
+            "args": "",
+            "projectName": "othello_project"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OthelloState",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "OthelloState",
+            "args": "",
+            "projectName": "othello_project"
+        }
+    ]
+}
